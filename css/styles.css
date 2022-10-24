@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    height: 100vh;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #282A35;
+}
+
+.intro {
+    background-color: #282A35;
+    color: #fff;
+}
+
+.heading {
+    font-weight: bolder;
+    font-size: 3em;
+    padding-top: 4rem;
+}
+
+.subheading {
+    font-weight: bold;
+    color: pink;
+    padding: 2rem;
+}
+
+.search-bar {
+    margin-top: 4.5em;
+    margin-bottom: 2em;
+    padding-bottom: 3em;
+}
+
+.question {
+    padding: 2rem 2rem 6rem 2rem;
+}
+
+.card1 {
+    background-color: rgb(200, 255, 200);
+}
+
+.card2 {
+    background-color: rgb(255, 255, 145);
+}
+
+.card3 {
+    background-color: #282A35;
+}
+
+.card4 {
+    background-color: rgb(255, 243, 245);
+}
+
+.card5 {
+    background-color: rgb(137, 255, 216);
+}
+
+.card6 {
+    background-color: rgb(248, 192, 222);
+}
+
+.card7 {
+    background-color: #b6e3d5;
+    ;
+}
+
+.card8 {
+    background-color: rgb(113, 210, 207);
+}
+
+.card9 {
+    background-color: rgb(229, 227, 227);
+}
+
+
+
+.heading2 {
+    font-weight: bolder;
+    font-size: 5em;
+    padding-top: 4rem;
+}
+
+.description {
+    padding: 3rem;
+}
+
+.heading3 {
+    font-weight: bolder;
+    font-size: 5em;
+    color: #fff;
+    padding-top: 4rem;
+}
+
+.description2 {
+    color: #fff;
+    padding: 3rem;
+}
+
+button {
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 3rem;
+}
+
+.button1 {
+    background-color: #04AA6D;
+    height: 2em;
+    width: 13em;
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 2em;
+    margin-bottom: 1.5rem;
+}
+
+.button1:hover {
+    background-color: #00965f;
+}
+
+.button2 {
+    background-color: #FFF4A3;
+    height: 2em;
+    width: 13em;
+    font-size: 1.2rem;
+    color: #000;
+    border-radius: 2em;
+    margin-bottom: 1.5rem;
+}
+
+.button2:hover {
+    background-color: #e9de8e;
+}
+
+.button3 {
+    background-color: #282A35;
+    height: 2em;
+    width: 13em;
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 2em;
+    margin-bottom: 1.5rem;
+}
+
+.button3:hover {
+    background-color: #000000;
+}
+
+.button4 {
+    background-color: rgb(255, 175, 189);
+    height: 2em;
+    width: 13em;
+    font-size: 1.2rem;
+    color: #000;
+    margin-bottom: 1.5rem;
+    border-radius: 2em;
+}
+
+.button4:hover {
+    background-color: rgb(231, 135, 151);
+}
+
+.button5 {
+    background-color: #fff;
+    height: 2em;
+    width: 13em;
+    font-size: 1.2rem; 
+    margin-bottom: 1.5rem;
+    color: #000;
+    border-radius: 2em;
+}
+
+.button5:hover {
+    background-color: rgb(224, 224, 224);
+}
+
+.cards {
+    background-color: #282A35;
+}
